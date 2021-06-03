@@ -1,3 +1,4 @@
+names,satisfaction_level,last_evaluation,number_project,average_monthly_hours,exp_in_company,work_accident,left,promotion_last_5years,role,salary
 Jessica Stroud,0.38,0.53,2,157,3,0,1,0,sales,low
 Daryl Fields,0.8,0.86,5,262,6,0,1,0,sales,medium
 Daisy Anderson,0.11,0.88,7,272,4,0,1,0,sales,medium
